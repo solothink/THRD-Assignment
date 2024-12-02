@@ -1,4 +1,5 @@
 # StyleStore E-commerce Application
+#Github link - https://github.com/solothink/THRD-Assignment.git
 
 ## Implementation Details
 
